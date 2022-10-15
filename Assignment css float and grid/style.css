@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+
+    
+    
+}
+
+.main{
+    background-color: yellow;
+    color: black;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 2px solid white;
+    
+}
+
+.img1{
+    float: right;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    margin: 40px 40px 40px 40px;
+}
+
+.img1 img {
+  width: inherit;
+      
+
+}
+
+.img2{
+    float: left;
+    width: 300px;
+    height: 200px;
+    overflow-wrap: normal;
+    display:flex;
+    
+}
+
+.img2 img {
+  width: inherit;
+      
+
+}
+
+
